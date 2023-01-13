@@ -1,5 +1,8 @@
 class Person:
-
-    def __init__(self, name, age):
+    def __init__(self, name, velocity, *start_x):
         self.name = name
-        self.age = age
+        self.velocity = velocity
+        self.start_x = start_x
+
+    def start_run(self):
+        ...

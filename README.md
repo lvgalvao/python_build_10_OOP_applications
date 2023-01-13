@@ -1,4 +1,4 @@
-# python_build_10_OOP_applications
+# Python 10 object-oriented programming applications
 
 In this repository I'll building ten real-world Python applications using object-oriented programming paradigm. Here are the 10 Python applications:
 
@@ -16,7 +16,7 @@ In this repository I'll building ten real-world Python applications using object
 
 - A program that sends news through automated emails
 
-- An interactive dictionary web app
+- An interactive **dictionary** web app
 
 - A REST API
 
