@@ -6,3 +6,8 @@ class Point:
 
     def printer(self):
         return print(self.x, self.y)
+
+class Rectangule:
+    def __init__(self, x: Point, y):
+        self.x = x
+        self.y = y
