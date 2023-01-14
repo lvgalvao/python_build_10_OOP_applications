@@ -1,4 +1,4 @@
-# Python 10 object-oriented programming applications
+# python_build_10_OOP_applications 
 
 In this repository I'll building ten real-world Python applications using object-oriented programming paradigm. Here are the 10 Python applications:
 
