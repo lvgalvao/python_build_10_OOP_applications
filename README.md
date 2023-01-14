@@ -16,7 +16,7 @@ In this repository I'll building ten real-world Python applications using object
 
 - A program that sends news through automated emails
 
-- An interactive dictionary web app
+- An interactive **dictionary** web app
 
 - A REST API
 
